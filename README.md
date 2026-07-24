@@ -42,10 +42,6 @@ The Pharmacy Management System provides a seamless way to manage essential pharm
 ### Database
 - [MongoDB](https://www.mongodb.com/)
 
-## Sample Credentials
-
-- **Admin Email**: `skskjani7@gmail.com`
-- **Password**: `skjani314@A`
 
 ## Deployment Links
 
@@ -142,19 +138,6 @@ pharmacy-management/
 - Integrate notifications for stock shortages and expirations.
 - Support for mobile applications.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-## Contributors
-
-- [Shaik Mahammad Jani](https://github.com/skjani314)
-
-## Contact
-
-- For queries,
-- contact: `skskjani7@gmail.com`
-- mobile:`9381116577`
----
 
 Thank you for using the Pharmacy Management System!
